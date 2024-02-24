@@ -1,0 +1,5 @@
+Age = int(input('Enter your age:' ))
+Age1 = (Age * 7)
+Age2 = (Age1 / 3)
+Age3 = (Age2 + 36)
+print(Age3)
