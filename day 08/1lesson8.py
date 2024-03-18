@@ -1,8 +1,5 @@
-FirstMark = input("EnterYourMark: ")
-SecondMark = input("EnterYourMark: ")
-ThirdMark = input("EnterYourMark: ")
+FirstMark = int(input("EnterYourMark: "))
+SecondMark = int(input("EnterYourMark: "))
+ThirdMark = int(input("EnterYourMark: "))
 
-print (int(FirstMark + SecondMark + ThirdMark / 3))
-
-
-#ვერ გავიგე :c
+print((FirstMark + SecondMark + ThirdMark) / 3)
