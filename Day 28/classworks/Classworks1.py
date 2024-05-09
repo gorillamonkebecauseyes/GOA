@@ -1,0 +1,2 @@
+anime = ["one piece", "jujutsu kaisen", "one punch man", "JJBA", "death note", "attack on titan", "naruto", "dragon ball Z", "demon slayer", "my hero academia"]
+print(anime[0] + " is my favourite anime")
