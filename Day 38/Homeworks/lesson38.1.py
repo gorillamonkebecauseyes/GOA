@@ -1,0 +1,11 @@
+movies = ["ITSV", "ATSV", "lost in space", "BTSV", "shin godzilla", "godzilla minus one", "godzilla king of the monsters", "godzilla vs kong", "kong skull island", "sonic the hedgehog 2"]
+print(movies[0])
+print(movies[1])
+print(movies[2])
+print(movies[3])
+print(movies[4])
+print(movies[5])
+print(movies[6])
+print(movies[7])
+print(movies[8])
+print(movies[9])

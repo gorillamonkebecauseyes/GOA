@@ -1,0 +1,11 @@
+family = ["mom", "dad", "brother", "me", "grandma", "grandpa", "my cousin", "my other cousin", "my other other cousin", "my fourth cousin"]
+print(family[0])
+print(family[1])
+print(family[2])
+print(family[3])
+print(family[4])
+print(family[5])
+print(family[6])
+print(family[7])
+print(family[8])
+print(family[9])
